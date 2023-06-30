@@ -5,3 +5,4 @@
    - deploying
    - handle concurrent users
    - seed the db
+   - make the admin portal
