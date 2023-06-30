@@ -1,0 +1,85 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum CourseType {
+  THEORY
+  LAB
+}
+
+enum Days {
+  mon
+  tue
+  wed
+  thu
+  fri
+}
+
+enum Role {
+  student
+  admin
+  faculty
+}
+
+model Faculty {
+  id               String   @id @unique
+  name             String
+  school           String
+  role             Role
+  registered_slots Course[]
+}
+
+model Course {
+  course_id        String
+  name             String
+  slot_ids         String[]
+  faculty_id       String
+  course_type      CourseType
+  credit           Int
+  available_slots  Int                @default(60)
+  createdAt        DateTime           @default(now())
+  updatedAt        DateTime           @updatedAt
+  registered_slot  Faculty?           @relation(fields: [faculty_id], references: [id])
+  REGISTER_COURSES REGISTER_COURSES[]
+
+  @@id([course_id, course_type])
+}
+
+model Slot {
+  id    Int    @id @default(autoincrement())
+  slot  String
+  day   Days
+  start String
+  end   String
+}
+
+model REGISTER_COURSES {
+  course_id   String
+  course_type CourseType
+  faculty_id  String
+  slot_ids    String[]
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+  stud        Student?   @relation(fields: [stud_id], references: [id])
+  course      Course?    @relation(fields: [course_id, course_type], references: [course_id, course_type])
+  stud_id     String
+
+  @@id([course_id, course_type, stud_id])
+}
+
+model Student {
+  id                String             @id @unique
+  name              String
+  password          String
+  role              Role
+  credits           Int                @default(0)
+  registered_course REGISTER_COURSES[]
+}

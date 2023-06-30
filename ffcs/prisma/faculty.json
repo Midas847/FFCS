@@ -1,0 +1,100 @@
+[
+  {
+    "id": "P1",
+    "name": "AMIT KUMAR TIWARI",
+    "school": "SAS"
+  },
+  { "id": "P2", "name": "SRIVANI A", "school": "SCOPE", "role": "faculty" },
+  {
+    "id": "P3",
+    "name": "YEDDULA PEDDA OBULESU",
+    "school": "SELECT"
+  },
+  {
+    "id": "P4",
+    "name": "MD. SAHUL HAMEED M A",
+    "school": "SSL"
+  },
+  { "id": "P5", "name": "KUBENDRAN A", "school": "SSL", "role": "faculty" },
+  {
+    "id": "P6",
+    "name": "VIJAYA KUMAR A.G",
+    "school": "SAS"
+  },
+  {
+    "id": "P7",
+    "name": "RAJESHKUMAR MOHANRAMAN",
+    "school": "SAS"
+  },
+  { "id": "P8", "name": "FACE (APT)", "school": "SSL", "role": "faculty" },
+  { "id": "P9", "name": "MAUSUMI GOSWAMI", "school": "SAS", "role": "faculty" },
+  { "id": "P10", "name": "NANCY VICTOR", "school": "SITE", "role": "faculty" },
+  {
+    "id": "P11",
+    "name": "NAVEEN MISHRA",
+    "school": "SENSE"
+  },
+  {
+    "id": "P12",
+    "name": "BHULAKSHMI BONTHU",
+    "school": "SCOPE"
+  },
+  { "id": "P13", "name": "RAJESH BHATT", "school": "SAS", "role": "faculty" },
+  { "id": "P14", "name": "KAVITHA K", "school": "SAS", "role": "faculty" },
+  { "id": "P15", "name": "SMART (APT)", "school": "SSL", "role": "faculty" },
+  { "id": "P16", "name": "GOVINDA K", "school": "SCOPE", "role": "faculty" },
+  { "id": "P17", "name": "ANURADHA J", "school": "SCOPE", "role": "faculty" },
+  { "id": "P18", "name": "GAYATHRI P", "school": "SCOPE", "role": "faculty" },
+  {
+    "id": "P19",
+    "name": "ANNAPURNA JONNALAGADDA",
+    "school": "SCOPE"
+  },
+  {
+    "id": "P20",
+    "name": "BOOMINATHAN P",
+    "school": "SCOPE"
+  },
+  {
+    "id": "P21",
+    "name": "BALAKRISHNAN P",
+    "school": "SCOPE"
+  },
+  { "id": "P22", "name": "ARJUN R", "school": "SCOPE", "role": "faculty" },
+  { "id": "P23", "name": "NAVAMANI T M", "school": "SCOPE", "role": "faculty" },
+  { "id": "P24", "name": "POORNIMA T", "school": "SAS", "role": "faculty" },
+  {
+    "id": "P25",
+    "name": "CHANDRU VIGNESH C",
+    "school": "SCOPE"
+  },
+  { "id": "P26", "name": "NIHA K", "school": "SCOPE", "role": "faculty" },
+  { "id": "P27", "name": "GOPICHAND G", "school": "SCOPE", "role": "faculty" },
+  {
+    "id": "P28",
+    "name": "MARY MEKALA A",
+    "school": "SCOPE"
+  },
+  { "id": "P29", "name": "DEEPIKAA S", "school": "SCOPE", "role": "faculty" },
+  {
+    "id": "P30",
+    "name": "SAMIR RANJAN MEHER",
+    "school": "SAS"
+  },
+  {
+    "id": "P31",
+    "name": "LOKESH KUMAR R",
+    "school": "SCOPE"
+  },
+  { "id": "P32", "name": "SASIKALA .R", "school": "SCOPE", "role": "faculty" },
+  {
+    "id": "P33",
+    "name": "MADHU VISWANATHAM V",
+    "school": "SCOPE"
+  },
+  { "id": "P34", "name": "LIJO V.P", "school": "SCOPE", "role": "faculty" },
+  { "id": "P35", "name": "MANJULA R", "school": "SCOPE", "role": "faculty" },
+  { "id": "P36", "name": "KALAAVATHI B", "school": "SCOPE", "role": "faculty" },
+  { "id": "P37", "name": "RUBY D", "school": "SCOPE", "role": "faculty" },
+  { "id": "P38", "name": "UMADEVI K S", "school": "SCOPE", "role": "faculty" }
+]

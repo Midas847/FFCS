@@ -1,0 +1,474 @@
+[
+  {
+    "course_id": "CHY1002",
+    "name": "Environmental Sciences",
+    "slot_ids": ["C2", "TC2"],
+    "faculty_id": "P1",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "CSE1001",
+    "name": "Problem Solving and Programming",
+    "slot_ids": ["L5", "L6", "L7", "L8", "L21", "L22"],
+    "faculty_id": "P2",
+    "course_type": "LAB",
+    "credit": 3
+  },
+  {
+    "course_id": "EEE1001",
+    "name": "Basic Electrical and Electronics Engineering",
+    "slot_ids": ["A2"],
+    "faculty_id": "P3",
+    "course_type": "THEORY",
+    "credit": 2
+  },
+  {
+    "course_id": "EEE1001",
+    "name": "Basic Electrical and Electronics Engineering",
+    "slot_ids": ["L23", "L24"],
+    "faculty_id": "P3",
+    "course_type": "LAB",
+    "credit": 2
+  },
+  {
+    "course_id": "ENG1902",
+    "name": "Technical English - II",
+    "slot_ids": ["L9", "L10", "L25", "L26"],
+    "faculty_id": "P4",
+    "course_type": "LAB",
+    "credit": 2
+  },
+  {
+    "course_id": "HUM1021",
+    "name": "Ethics and Values",
+    "slot_ids": ["D2"],
+    "faculty_id": "P5",
+    "course_type": "THEORY",
+    "credit": 2
+  },
+  {
+    "course_id": "MAT1011",
+    "name": "Calculus for Engineers",
+    "slot_ids": ["G2", "TG2"],
+    "faculty_id": "P6",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "MAT1011",
+    "name": "Calculus for Engineers",
+    "slot_ids": ["L13", "L14"],
+    "faculty_id": "P6",
+    "course_type": "LAB",
+    "credit": 1
+  },
+  {
+    "course_id": "PHY1701",
+    "name": "Engineering Physics",
+    "slot_ids": ["E2", "TE2"],
+    "faculty_id": "P7",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "PHY1701",
+    "name": "Engineering Physics",
+    "slot_ids": ["L15", "L16"],
+    "faculty_id": "P7",
+    "course_type": "LAB",
+    "credit": 1
+  },
+  {
+    "course_id": "STS1201",
+    "name": "Introduction to Problem Solving",
+    "slot_ids": ["F2", "TF2"],
+    "faculty_id": "P8",
+    "course_type": "THEORY",
+    "credit": 1
+  },
+  {
+    "course_id": "CHY1701",
+    "name": "Engineering Chemistry",
+    "slot_ids": ["E1", "TE1"],
+    "faculty_id": "P9",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "CHY1701",
+    "name": "Engineering Chemistry",
+    "slot_ids": ["L35", "L36"],
+    "faculty_id": "P9",
+    "course_type": "LAB",
+    "credit": 1
+  },
+  {
+    "course_id": "CSE1003",
+    "name": "Digital Logic and Design",
+    "slot_ids": ["B1", "TB1"],
+    "faculty_id": "P11",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "CSE1003",
+    "name": "Digital Logic and Design",
+    "slot_ids": ["L39", "L40"],
+    "faculty_id": "P11",
+    "course_type": "LAB",
+    "credit": 1
+  },
+  {
+    "course_id": "CSE1002",
+    "name": "Problem Solving and Object Oriented Programming",
+    "slot_ids": ["L41", "L42", "L45", "L46", "L49", "L50"],
+    "faculty_id": "P10",
+    "course_type": "LAB",
+    "credit": 3
+  },
+  {
+    "course_id": "CSE2011",
+    "name": "Data Structures and Algorithms",
+    "slot_ids": ["A1", "TA1"],
+    "faculty_id": "P12",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "CSE2011",
+    "name": "Data Structures and Algorithms",
+    "slot_ids": ["L33", "L34"],
+    "faculty_id": "P12",
+    "course_type": "LAB",
+    "credit": 1
+  },
+  {
+    "course_id": "MAT1014",
+    "name": "Discrete Mathematics and Graph Theory",
+    "slot_ids": ["C1", "TCC1", "Tc1", "V1"],
+    "faculty_id": "P13",
+    "course_type": "THEORY",
+    "credit": 4
+  },
+  {
+    "course_id": "MAT2001",
+    "name": "Statistics for Engineers",
+    "slot_ids": ["G1", "TG1"],
+    "faculty_id": "P14",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "MAT2001",
+    "name": "Statistics for Engineers",
+    "slot_ids": ["L59", "L60"],
+    "faculty_id": "P14",
+    "course_type": "LAB",
+    "credit": 1
+  },
+  {
+    "course_id": "BCI3001",
+    "name": "Web Security",
+    "slot_ids": ["B2"],
+    "faculty_id": "P12",
+    "course_type": "THEORY",
+    "credit": 2
+  },
+  {
+    "course_id": "BCI3001",
+    "name": "Web Security",
+    "slot_ids": ["L57", "L58"],
+    "faculty_id": "P12",
+    "course_type": "LAB",
+    "credit": 2
+  },
+  {
+    "course_id": "CSE2001",
+    "name": "Computer Architecture and Organization",
+    "slot_ids": ["A1", "TA1"],
+    "faculty_id": "P12",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "CSE2004",
+    "name": "Database Management Systems",
+    "slot_ids": ["B1", "TB1"],
+    "faculty_id": "P16",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "CSE2004",
+    "name": "Database Management Systems",
+    "slot_ids": ["L43", "L44"],
+    "faculty_id": "P16",
+    "course_type": "LAB",
+    "credit": 1
+  },
+  {
+    "course_id": "CSE2005",
+    "name": "Operating Systems",
+    "slot_ids": ["C1", "TC1"],
+    "faculty_id": "P17",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "CSE2005",
+    "name": "Operating Systems",
+    "slot_ids": ["L53", "L54"],
+    "faculty_id": "P17",
+    "course_type": "LAB",
+    "credit": 1
+  },
+  {
+    "course_id": "CSE2012",
+    "name": "Design and Analysis of Algorithms",
+    "slot_ids": ["F1", "TF1"],
+    "faculty_id": "P18",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "CSE2012",
+    "name": "Design and Analysis of Algorithms",
+    "slot_ids": ["L31", "L32"],
+    "faculty_id": "P18",
+    "course_type": "LAB",
+    "credit": 1
+  },
+  {
+    "course_id": "CSE3013",
+    "name": "Artificial Intelligence",
+    "slot_ids": ["D1", "TD1"],
+    "faculty_id": "P19",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "BKT2001",
+    "name": "Cryptography and Information Security",
+    "slot_ids": ["D1", "TD1"],
+    "faculty_id": "P20",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "BKT2001",
+    "name": "Cryptography and Information Security",
+    "slot_ids": ["L37", "L38"],
+    "faculty_id": "P20",
+    "course_type": "LAB",
+    "credit": 1
+  },
+  {
+    "course_id": "CSE1007",
+    "name": "Java Programming",
+    "slot_ids": ["A1", "TA1"],
+    "faculty_id": "P21",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "CSE1007",
+    "name": "Java Programming",
+    "slot_ids": ["L33", "L34"],
+    "faculty_id": "P21",
+    "course_type": "LAB",
+    "credit": 1
+  },
+  {
+    "course_id": "CSE2010",
+    "name": "Advanced C Programming",
+    "slot_ids": ["C2"],
+    "faculty_id": "P22",
+    "course_type": "THEORY",
+    "credit": 2
+  },
+  {
+    "course_id": "CSE2010",
+    "name": "Advanced C Programming",
+    "slot_ids": ["L15", "L16"],
+    "faculty_id": "P22",
+    "course_type": "LAB",
+    "credit": 1
+  },
+  {
+    "course_id": "CSE2013",
+    "name": "Theory of Computation",
+    "slot_ids": ["G1", "TG1"],
+    "faculty_id": "P23",
+    "course_type": "THEORY",
+    "credit": 4
+  },
+  {
+    "course_id": "MAT3004",
+    "name": "Applied Linear Algebra",
+    "slot_ids": ["C1", "TC1", "TCC1", "V2"],
+    "faculty_id": "P24",
+    "course_type": "THEORY",
+    "credit": 4
+  },
+  {
+    "course_id": "BKT1001",
+    "name": "Blockchain and Distributed Ledger Technology",
+    "slot_ids": ["A1", "TA1"],
+    "faculty_id": "P25",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "BKT1001",
+    "name": "Blockchain and Distributed Ledger Technology",
+    "slot_ids": ["L33", "L34"],
+    "faculty_id": "P25",
+    "course_type": "LAB",
+    "credit": 1
+  },
+  {
+    "course_id": "BKT3001",
+    "name": "Design and Development of Blockchain Applications",
+    "slot_ids": ["A2", "TA2"],
+    "faculty_id": "P26",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "BKT3001",
+    "name": "Design and Development of Blockchain Applications",
+    "slot_ids": ["L11", "L12"],
+    "faculty_id": "P26",
+    "course_type": "LAB",
+    "credit": 1
+  },
+  {
+    "course_id": "BKT4006",
+    "name": "Cryptocurrency Technologies",
+    "slot_ids": ["E1", "TE1"],
+    "faculty_id": "P27",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "CSE3002",
+    "name": "Internet and Web Programming",
+    "slot_ids": ["C1"],
+    "faculty_id": "P28",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "CSE3002",
+    "name": "Internet and Web Programming",
+    "slot_ids": ["L37", "L38"],
+    "faculty_id": "P28",
+    "course_type": "LAB",
+    "credit": 1
+  },
+  {
+    "course_id": "CSE4003",
+    "name": "Cyber Security",
+    "slot_ids": ["C2", "TC2"],
+    "faculty_id": "P29",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "PHY1901",
+    "name": "Introduction to Innovative Projects",
+    "slot_ids": ["TD2"],
+    "faculty_id": "P30",
+    "course_type": "THEORY",
+    "credit": 1
+  },
+  {
+    "course_id": "BKT4005",
+    "name": "Blockchain Architecture Design and Use Cases",
+    "slot_ids": ["A1", "TA1"],
+    "faculty_id": "P31",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "CSE1004",
+    "name": "Network and Communication",
+    "slot_ids": ["E1", "TE1"],
+    "faculty_id": "P32",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "CSE1004",
+    "name": "Network and Communication",
+    "slot_ids": ["L33", "L34"],
+    "faculty_id": "P32",
+    "course_type": "LAB",
+    "credit": 1
+  },
+  {
+    "course_id": "CSE1006",
+    "name": "Blockchain and Cryptocurrency Technologies",
+    "slot_ids": ["A2", "TA2"],
+    "faculty_id": "P33",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "CSE1901",
+    "name": "Technical Answers for Real World Problems (TARP)",
+    "slot_ids": ["TCC2"],
+    "faculty_id": "P34",
+    "course_type": "THEORY",
+    "credit": 1
+  },
+  {
+    "course_id": "CSE3001",
+    "name": "Software Engineering",
+    "slot_ids": ["C1"],
+    "faculty_id": "P35",
+    "course_type": "THEORY",
+    "credit": 2
+  },
+  {
+    "course_id": "CSE3001",
+    "name": "Software Engineering",
+    "slot_ids": ["L5", "L6"],
+    "faculty_id": "P35",
+    "course_type": "LAB",
+    "credit": 1
+  },
+  {
+    "course_id": "CSE3009",
+    "name": "Internet of Things",
+    "slot_ids": ["G2", "TG2"],
+    "faculty_id": "P36",
+    "course_type": "THEORY",
+    "credit": 3
+  },
+  {
+    "course_id": "CSE3502",
+    "name": "Information Security Managemen",
+    "slot_ids": ["F2"],
+    "faculty_id": "P37",
+    "course_type": "THEORY",
+    "credit": 2
+  },
+  {
+    "course_id": "CSE3502",
+    "name": "Information Security Managemen",
+    "slot_ids": ["L49", "L50"],
+    "faculty_id": "P37",
+    "course_type": "LAB",
+    "credit": 1
+  },
+  {
+    "course_id": "MOC1991",
+    "name": "Forests and their Management",
+    "slot_ids": ["TGG2"],
+    "faculty_id": "P38",
+    "course_type": "THEORY",
+    "credit": 3
+  }
+]
