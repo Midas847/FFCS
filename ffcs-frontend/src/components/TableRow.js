@@ -45,7 +45,7 @@ const TableRow = ({id,name,credits,faculty,seats,slots,type}) => {
                 </td>
                     <td class="px-6 py-4">
                         {
-                            registeredCourses.find(course=>course.course_id===id)?(<><button class="font-medium text-[#256ec1] opacity-50 dark:[#256ec1] hover:underline" onClick={register}>Registered</button></>):(<><button class="font-medium text-[#256ec1] dark:text-[#256ec1] hover:underline" onClick={register}>Register</button></>)
+                            registeredCourses.find(course=>course.course_id===id && course.course_type===type)?(<><button class="font-medium text-[#256ec1] opacity-50 dark:[#256ec1] hover:underline" onClick={register}>Registered</button></>):(<><button class="font-medium text-[#256ec1] dark:text-[#256ec1] hover:underline" onClick={register}>Register</button></>)
                         }
                     </td>
                 </tr>
